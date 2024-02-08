@@ -1,7 +1,7 @@
 #include "bits/stdc++.h"
 using namespace std;
 const int inf=1e4;
-// dijkstra
+// dijkstra algorithhm
 int main(){
     int n,m;cin>>n>>m;
     vector<vector<pair<int,int>>>graph(n+1);
